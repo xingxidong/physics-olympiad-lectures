@@ -4,6 +4,7 @@
 
 ## 阅读与下载
 
+- [下载署名全书合并册 PDF（61 讲，2,525 页）](https://github.com/xingxidong/physics-olympiad-lectures/releases/download/v2026.11.01-math-process/physics-olympiad-round1-61-lectures-combined-2026-11-13.pdf)。2026 年 11 月 13 日修订版，含 1,155 道题。
 - [61讲逐讲目录与PDF](output/全套讲义目录.md)
 - [下载整套PDF与TikZ源码](https://github.com/sabercldong/physics-olympiad-lectures/releases/latest/download/physics-olympiad-61-lectures-pdf-tikz.zip)
 - [查看发布版本](https://github.com/sabercldong/physics-olympiad-lectures/releases)
